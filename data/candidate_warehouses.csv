@@ -1,0 +1,21 @@
+warehouse,latitude,longitude,tier,capacity
+Northampton,52.2405,-0.9027,Mega,15000000
+Rugby,52.3709,-1.2642,Mega,15000000
+Birmingham,52.4862,-1.8904,Mega,15000000
+Coventry,52.4068,-1.5197,Regional,10000000
+Milton Keynes,52.0406,-0.7594,Mega,15000000
+Leicester,52.6369,-1.1398,Regional,10000000
+Derby,52.9225,-1.4746,Regional,10000000
+Nottingham,52.9548,-1.1581,Regional,10000000
+Peterborough,52.5695,-0.2405,Regional,10000000
+Doncaster,53.5228,-1.1285,Regional,10000000
+Wakefield,53.6833,-1.4977,Regional,10000000
+Leeds,53.8008,-1.5491,Regional,10000000
+Sheffield,53.3811,-1.4701,Regional,10000000
+Manchester,53.4808,-2.2426,Regional,10000000
+Liverpool,53.4084,-2.9916,Regional,10000000
+Bristol,51.4545,-2.5879,Regional,10000000
+Southampton,50.9097,-1.4044,Peripheral,6000000
+Glasgow,55.8642,-4.2518,Peripheral,6000000
+Edinburgh,55.9533,-3.1883,Peripheral,6000000
+Newcastle,54.9783,-1.6178,Peripheral,6000000
